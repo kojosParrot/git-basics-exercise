@@ -4,6 +4,10 @@ A hands-on exercise to learn core Git and GitHub workflows: commits, branches, m
 
 Audience: High school students, first-time Git users.
 
+## Setup
+
+If you don't have Git or a GitHub account yet, follow the setup instructions in [SETUP.md](SETUP.md) first.
+
 ## Prerequisites
 
 - Git installed
@@ -19,6 +23,7 @@ Audience: High school students, first-time Git users.
 
 ## Quick start
 
+0) If needed, complete [SETUP.md](SETUP.md).
 1) Fork this repo on GitHub.
 2) Clone your fork to your computer.
 3) Complete the tasks in order:
